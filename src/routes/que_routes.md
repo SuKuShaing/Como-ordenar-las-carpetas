@@ -1,0 +1,1 @@
+aquí van a estar las rutas o los endpoints para acceder a los recursos

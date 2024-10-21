@@ -1,1 +1,14 @@
+# Excluir el entorno virtual
 venv
+
+# Excluir las variables de entorno
+.env
+
+# carpetas de pycache
+__pycache__
+
+# compilados de pyton
+*.py[cod]
+
+# carpetas de testin
+.pytest_cache
